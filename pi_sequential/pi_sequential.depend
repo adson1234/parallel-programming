@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540374641 source:d:\平行程式設計\pi_sequential\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540404790 source:d:\平行程式設計\pi_parallel\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
